@@ -4,7 +4,7 @@ layout: default
 # Miembros del Equipo
 
 ### Diseñador
-![Alt text](/miembros/disenador.png){:height="140px" width="140px"}
+![Alt text](/miembros/diseñador.png){:height="140px" width="140px"}
 
 *Alumno 2*
 ><div style="text-align: justify"> La persona encargada de diseñar y modelar las piezas de la propuesta.</div>
